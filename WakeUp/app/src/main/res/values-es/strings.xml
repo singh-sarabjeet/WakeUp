@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wake Up</string>
+    <string name="no_alarms">No Alarmas</string>
+    <string name="ok">Vale</string>
+    <string name="title_activity_set_alarms">Conjunto de alarma</string>
+    <string name="menu_item_new">Nuevo</string>
+    <string name="menu_item_delete">Cancelar</string>
+    <string name="clear_button_text">Claro</string>
+    <string name="cancel">Cancelar</string>
+    <string name="button_new">Nuevo</string>
+    <string name="button_delete">Borrar</string>
+    <string name="menu_item_save">Salvar</string>
+    <string name="Active">Activo</string>
+    <string name="Difficulty">Dificultad</string>
+    <string name="Easy">Fácil</string>
+    <string name="Medium">Medio</string>
+    <string name="Friday">Viernes</string>
+    <string name="Hard">Difícil</string>
+    <string name="Label">Etiqueta</string>
+    <string name="Monday">Lunes</string>
+    <string name="Repeat">Repetir</string>
+    <string name="Saturday">Sábado</string>
+    <string name="Set_Time">Fijar Tiempo</string>
+    <string name="Sunday">Domingo</string>
+    <string name="Thursday"> Jueves</string>
+    <string name="Tuesday">Martes</string>
+    <string name="Wednesday"> Miércoles</string>
+</resources>

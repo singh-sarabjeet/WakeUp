@@ -1,0 +1,56 @@
+<resources>
+    <!-- Application -->
+    <color name="holo_blue_light">#ff33b5e5</color>
+
+    <!-- Math Alarm Activity -->
+    <string name="app_name">Wake Up</string>
+    <string name="title_activity_set_alarms">Set Alarm</string>
+    <string name="no_alarms">No Alarms</string>
+
+    <string name="button_new">New</string>
+
+    <!-- Menu -->
+    <string name="menu_item_new">New</string>
+    <string name="menu_item_save">Save</string>
+    <string name="menu_item_delete">Cancel</string>
+    <string name="menu_item_rate" translatable="false">Rate on Google Play</string>
+    <string name="menu_item_website" translatable="false">Website</string>
+    <string name="menu_item_report" translatable="false">Report a Bug</string>
+
+    <!-- Alert -->
+    <string name="_0" translatable="false">0</string>
+    <string name="_1" translatable="false">1</string>
+    <string name="_2" translatable="false">2</string>
+    <string name="_3" translatable="false">3</string>
+    <string name="_4" translatable="false">4</string>
+    <string name="_5" translatable="false">5</string>
+    <string name="_6" translatable="false">6</string>
+    <string name="_7" translatable="false">7</string>
+    <string name="_8" translatable="false">8</string>
+    <string name="_9" translatable="false">9</string>
+    <string name="decimal_button_text" translatable="false">.</string>
+    <string name="clear_button_text">Clear</string>
+    <string name="minus_button_text" translatable="false">-</string>
+    <string name="Sunday">Sunday</string>
+    <string name="Monday">Monday</string>
+    <string name="Tuesday">Tuesday</string>
+    <string name="Wednesday">Wednesday</string>
+    <string name="Thursday">Thursday</string>
+    <string name="Friday">Friday</string>
+    <string name="Saturday">Saturday</string>
+    <string name="Easy">Easy</string>
+    <string name="Medium">Medium</string>
+    <string name="Active">Active</string>
+    <string name="Label">Label</string>
+    <string name="Set_Time">Set Time</string>
+    <string name="Hard">Hard</string>
+    <string name="Repeat">Repeat</string>
+    <string name="Difficulty">Difficulty</string>
+
+    <color name="title_background_color">#000000</color>
+
+    <string name="button_delete">Delete</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+
+</resources>
